@@ -1,0 +1,6 @@
+// component styles are encapsulated and only applied to their components
+$main: white;
+
+* {
+  color: $main;
+}
